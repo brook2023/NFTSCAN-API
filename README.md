@@ -4,7 +4,7 @@
 NFTSCAN对外开发接口分为免费版和付费版。
 免费版本在官网注册账户后可获得一个API链接，请求上限为1000次/天。
 付费版可根据需求选择不同上限请求套餐。
-定制版请联系NFTSCAN官方团队，提供websocket方式,pending数据等服务。
+定制版请联系NFTSCAN官方团队，提供websocket方式,pending数据等服务。eeee
 
 
 | 请求次数/天 | 费用(USDC) | 等级 |
