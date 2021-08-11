@@ -62,6 +62,10 @@ nft/address/message/0xc83E009c7794e8f6d1954dc13c23A35Fc4D039F6
 
 
 数据示例
+
+
+
+```json
 {
     "status":0,
     "code":2001,
@@ -88,7 +92,7 @@ nft/address/message/0xc83E009c7794e8f6d1954dc13c23A35Fc4D039F6
         }
     ]
 }
-
+```
 
 
 ## 查询交易记录
@@ -163,7 +167,7 @@ nft/record/nft_address
 
 
 数据示例
-
+```json
 {
     "status":0,
     "code":2001,
@@ -192,7 +196,7 @@ nft/record/nft_address
         }
     ]
 }
-
+```
 
 
 
@@ -233,6 +237,7 @@ nft_message
 
 数据示例
 
+```json
 {
     "status":0,
     "code":2001,
@@ -248,7 +253,7 @@ nft_message
         "nft_detail":"{\"image\":\"ipfs://QmNQdLr39xXRpr6XghhAD1fd1dntJouugvFhYqQVebMUku\"}"
     }
 }
-
+```
 
 
 ## 查询NFT平台下所有资产信息
@@ -287,7 +292,7 @@ nft_message_List
 
 数据示例
 
-
+```json
 {
     "status":0,
     "code":2001,
@@ -305,3 +310,5 @@ nft_message_List
         }
     ]
 }
+```
+
